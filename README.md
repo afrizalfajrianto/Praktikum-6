@@ -4,7 +4,6 @@
 ### FLOWCHART
 
 ![Gambar 1](screenshot/flowchart.png)
-
 ### CODE
 
 ```sh
